@@ -1,3 +1,6 @@
+# copliot_practice
+Github Copilot으로 완성하는 나만의 Vibe Coding
+
 # Task 3: Django 웹앱 만들기 (Part 1) 
 
 ## Use case: 
@@ -223,4 +226,4 @@
 ## 지식 확인
 - 이번 Task에서는 Django 프로젝트를 시작하기 위해, 
   - Copilot의 Custom instructions를 생성하고, 
-  - 커스텀 Chat mode를 설정하고,  Remote GitHub 저장소와, GitHub MCP server를 설정하여 Django 웹앱을 만들기 위한 준비를 마쳤습니다. 
+  - 커스텀 Chat mode를 설정하고,  Remote GitHub 저장소와, GitHub MCP server를 설정하여 Django 웹앱을 만들기 위한 준비를 마쳤습니다.
