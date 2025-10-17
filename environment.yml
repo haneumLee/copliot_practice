@@ -1,0 +1,13 @@
+name: copilot-practice
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - django==4.2.7
+    - python-decouple==3.8
+    - pillow==10.0.1
+    - django-crispy-forms==2.1
+    - coverage==7.3.2
